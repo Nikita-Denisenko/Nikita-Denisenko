@@ -2,9 +2,9 @@
 
 🎓 High school student (11th grade)  
 ♟️ Candidate Master in chess & part-time chess coach  
-💻 Aspiring backend developer  
-📘 Currently learning C# to build scalable backend systems  
-📌 First programming language: Python  
+💻 Aspiring Web-developer  
+📘 Currently learning FastAPI and React to make full-stack web applications
+📌 First and Main programming language: Python  
 🧠 Teaching programming basics to kids  
 🎯 Interested in clean architecture, web APIs, and backend design
 
@@ -14,11 +14,11 @@
 - 🐍 Python
 - 🌐 HTML / CSS / JS (basic)
 - ⚙️ Git & GitHub
-- 📦 Learning C# and .NET
+- 📦 Learning FastApi and React
 
 ---
 
-### 📈 GitHub Stats (Optional)
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nikita-Denisenko&show_icons=true&theme=tokyonight" height="160"/>
