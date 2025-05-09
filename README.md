@@ -3,8 +3,8 @@
 🎓 High school student (11th grade)  
 ♟️ Candidate Master in chess & part-time chess coach  
 💻 Aspiring Web-developer  
-📘 Currently learning FastAPI and React to make full-stack web applications
 📌 First and Main programming language: Python  
+📘 Currently learning FastAPI and React to make full-stack web applications  
 🧠 Teaching programming basics to kids  
 🎯 Interested in clean architecture, web APIs, and backend design
 
