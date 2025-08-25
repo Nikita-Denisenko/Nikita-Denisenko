@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikita 👋</h1>
 
 <p align="center">
-  🎓 11th grade high school student & chess enthusiast<br>
+  🎓 First year student & chess enthusiast<br>
   💻 Aspiring backend developer currently learning C#<br>
   🐍 Started with Python | 🧠 Teaching programming to kids<br>
   ♟️ Candidate Master in chess & part-time coach
@@ -13,7 +13,7 @@
 - 🐍 Python
 - 🌐 HTML / CSS / JS (basic)
 - ⚙️ Git & GitHub
-- 📦 Learning C# and .NET
+- 📦 C# and .NET
 
 ---
 
