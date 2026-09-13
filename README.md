@@ -14,7 +14,7 @@
   <a href="https://github.com/Nikita-Denisenko">
     <img src="https://img.shields.io/badge/GitHub-Nikita--Denisenko-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://t.me/">
+  <a href="https://web.telegram.org/@LAMBADARGINI">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
